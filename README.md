@@ -1,5 +1,7 @@
 
 # 📊 Superstore Sales — Exploratory Data Analysis
+<img width="873" height="369" alt="image" src="https://github.com/user-attachments/assets/c482c558-6cd4-4ac3-b154-35112fd4430a" />
+
 
 ## 📌 Project Overview
 
